@@ -2,7 +2,5 @@ A Streamlit-based AI agent that helps students revise complex topics with clear 
 
 Features : 
 Simple user interface to enter and fetch revision notes,
-
 Avoids repeating already revised topics,
-
 Uses OpenRouter API (GPT-3.5-turbo)
